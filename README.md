@@ -40,11 +40,13 @@ Once the scanning is complete, the script will print the extracted email address
 # Steps to Install:
 1. git clone https://github.com/Maveera/Email-scarper.git
 2. cd Email-scarper
-3. install needed libraries
-pip install requests
-pip install beautifulsoup4
-pip install lxml
-If you see version information and other details, it means the library is installed. If you see an error or no information, it means the library is not installed, and you should use the pip install.
-6. Run the code : python3 Email-scarper.py
+3. Run the code : python3 Email-scarper.py
+4. If Shows any error 
+5. install needed libraries
+4.pip install requests
+5.pip install beautifulsoup4
+6.pip install lxml 
+7.If you see version information and other details, it means the library is installed. If you see an error or no information, it means the library is not installed, and you should use the pip install.
+8. Run the code : python3 Email-scarper.py
 
-# Happy Hacking !#
+# Happy Hacking !
