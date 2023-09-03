@@ -43,10 +43,10 @@ Once the scanning is complete, the script will print the extracted email address
 3. Run the code : python3 Email-scarper.py
 4. If Shows any error 
 5. install needed libraries
-6.pip install requests
-7.pip install beautifulsoup4
-8.pip install lxml 
-9.If you see version information and other details, it means the library is installed. If you see an error or no information, it means the library is not installed, and you should use the pip install.
+6. pip install requests
+7. pip install beautifulsoup4
+8. pip install lxml
+9. If you see version information and other details, it means the library is installed. If you see an error or no information, it means the library is not installed, and you should use the pip install.
 10. Run the code : python3 Email-scarper.py
 
-# Happy Hacking !
+## Happy Hacking !
