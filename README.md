@@ -1,4 +1,4 @@
-Code Overview:
+# Code Overview:
 Import Required Libraries: The code begins by importing necessary libraries, including BeautifulSoup, requests, deque (for managing URLs in a queue), urllib.parse (for parsing URLs), and re (for regular expressions).
 
 User Input: It prompts the user to enter a target URL to start the scanning process.
@@ -24,7 +24,7 @@ KeyboardInterrupt Handling: The code handles a KeyboardInterrupt (usually trigge
 
 Email Address Output: Finally, the script prints the extracted email addresses.
 
------How to Use:----
+# How to Use:
 Ensure you have Python installed on your system, along with the required libraries (requests, BeautifulSoup, lxml).
 
 Copy the code into a Python file (e.g., email_scraper.py).
