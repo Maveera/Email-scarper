@@ -36,3 +36,15 @@ When prompted, enter the target URL (e.g., "https://example.com") you want to st
 The script will begin scanning web pages within the domain and extract email addresses. It will stop after processing 100 URLs or when interrupted with Ctrl+C.
 
 Once the scanning is complete, the script will print the extracted email addresses on the screen.
+
+# Steps to Install:
+1. git clone https://github.com/Maveera/Email-scarper.git
+2. cd Email-scarper
+3. install needed libraries
+pip install requests
+pip install beautifulsoup4
+pip install lxml
+If you see version information and other details, it means the library is installed. If you see an error or no information, it means the library is not installed, and you should use the pip install.
+6. Run the code : python3 Email-scarper.py
+
+# Happy Hacking !#
